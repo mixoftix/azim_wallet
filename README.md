@@ -11,7 +11,6 @@ Azim-Wallet is an important part of Azim-Chain project which promises new genera
 License Info
 --------------------------
 Azim-Wallet is licensed under the GNU General Public License (GPL) Version 3. 
-See: https://coin.mixoftix.net/dlx/LICENSE.txt
 
 Tutorials
 --------------------------
