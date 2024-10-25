@@ -2,9 +2,11 @@
 --------------------------
 A tool for curious minds..
 
+![azim_wallet_generate_keys_01](https://github.com/user-attachments/assets/10d626d8-0477-40c7-8fa0-adb8bb387fe3)
+
 General Info
 --------------------------
-
+Azim-Wallet is an important part of Azim-Chain project which promises new generation of blockchain systems.
 
 License Info
 --------------------------
