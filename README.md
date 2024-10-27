@@ -1,4 +1,6 @@
-# azim_wallet (A tool for curious minds..)
+# azim_wallet 
+--------------------------
+A tool for curious minds..
 --------------------------
 (Pro edition)
 
